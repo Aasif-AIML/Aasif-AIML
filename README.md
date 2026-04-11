@@ -37,4 +37,4 @@ Currently executing a rigorous technical sprint focused on algorithm optimizatio
 ---
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/aasif-algorithm) | algorithm.aasif@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aasif-algorithm) 
