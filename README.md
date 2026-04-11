@@ -26,7 +26,6 @@
 
 * Improving problem-solving skills (DSA)
 * Building AI/ML projects
-* Exploring open-source opportunities
 
 ---
 
