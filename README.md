@@ -42,4 +42,4 @@
 
 ---
 
-✨ *Just getting started, learning every day.*
+✨ Just getting started, learning every day.
