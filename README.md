@@ -1,40 +1,54 @@
-# 🚀 Aasif | AI/ML Engineer 
-** B.Tech Computer Science Engineering
+# Hi, I'm Aasif 👋
 
-Targeting specialized Artificial Intelligence, Machine Learning, and Data Engineering roles for the **September 2026** placement cycle. 
-Currently executing a rigorous technical sprint focused on algorithm optimization and end-to-end ML pipelines.
+B.Tech CSE student focused on building practical AI and full-stack projects.
 
----
-
-### 💻 Technical Arsenal
-| **Languages** | Python (Primary), SQL, Java (Core) |
-| **AI & Machine Learning** | Computer Vision, NLP, TensorFlow, Scikit-learn, OpenCV |
-| **Cloud & Architecture** | AWS (Elastic Beanstalk, S3), OCI, Tableau |
-| **Developer Tools** | Git, GitHub, VS Code |
+I’m currently working on:
+- Data Structures & Algorithms
+- Python backend development
+- AI-powered applications
+- Git & real-world developer workflows
+- Technical content creation around coding and engineering
 
 ---
 
-### 💼 Professional & Virtual Experience
-* **AI Intern @CodSoft (Jul - Aug 2025):** Engineered multiple AI solutions including game algorithms, recommendation engines, and NLP-based chatbots.
-* **Data Analytics Virtual Intern @ Deloitte:** Executed data cleaning protocols and designed Tableau dashboards for market trend analysis.
-* **Solutions Architecture Virtual Intern @ AWS:** Architected scalable web applications utilizing AWS Elastic Beanstalk and Amazon S3 with cost-estimation models.
+## ⚙️ Tech Stack
+- **Languages:** Python, SQL, Java
+- **Frontend:** HTML, CSS, JavaScript
+- **AI/ML:** Scikit-learn, OpenCV, TensorFlow basics
+- **Tools:** Git, GitHub, VS Code
+- **Learning:** FastAPI, React, PostgreSQL
 
 ---
 
-### 📂 Featured Projects
-* **[Global Freeze - Movie Recommender](https://github.com/Aasif-AIML/CodSoft):** Implemented TF-IDF vectorization and Cosine Similarity to generate highly accurate, content-based movie recommendations.
-* **[Real-Time Face Detection System](https://github.com/Aasif-AIML/CodSoft):** Built a low-latency computer vision pipeline utilizing OpenCV and Haar Cascades for live face detection and automated image capture.
-* **[AI-Powered Chatbot Assistant](https://github.com/Aasif-AIML/CodSoft):** Developed a hybrid intelligent bot integrating Regex patterns and the Wikipedia API for dynamic, real-time information retrieval.
-* **[Unbeatable Tic-Tac-Toe AI](https://github.com/Aasif-AIML/CodSoft):** Applied core Data Structures by building a game AI powered by the Minimax Algorithm.
+## 🚀 Featured Projects
+
+### 🎬 AI Movie Recommendation System
+Content-based movie recommender using TF-IDF vectorization and cosine similarity.
+
+### 🤖 AI Chatbot Assistant
+Python chatbot using regex logic and external knowledge integration.
+
+### 👁️ Real-Time Face Detection
+OpenCV-based face detection system with live webcam processing.
+
+### 🎮 Tic-Tac-Toe AI
+Minimax algorithm implementation for unbeatable gameplay.
 
 ---
 
-### 📊 Current Execution Metrics & Focus
-* **Core Fundamentals:** Initiated an aggressive ground-up sprint in **Data Structures and Algorithms (DSA)** to build optimal problem-solving speed before Q3 2026.
-* **Database Management:** Refining advanced SQL query execution.
-* **Certifications Achieved:** Oracle (AI Foundations, Gen AI Professional, OCI Foundations), NPTEL (Java), HackerRank (SQL).
+## 📈 Current Focus
+Right now, I’m focused on:
+- becoming placement-ready through consistent project building
+- improving problem-solving ability with DSA
+- building stronger public GitHub proof of work
+- creating technical educational content
 
 ---
 
-### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/aasif-algorithm) 
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/aasif-algorithm
+- GitHub: https://github.com/Aasif-AIML
+
+---
+
+> "Build proof, not excuses."
